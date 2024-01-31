@@ -1,0 +1,1 @@
+print("\tISLAMIC UNIVERSITY IN UGANDA\n\t\tKAMPALA CAMPUS\n\n\tName:\t\tSsali Jamil\n\tReg No:\t\t223-063012-27422\n\tCourse unit:\tStructure programming\n\tLecturer:\tEng Walusimbi Hakim\n\tDate:\t\t24/01/2024\n\n\t\t## THANKS ##\n")

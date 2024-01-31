@@ -1,0 +1,7 @@
+print("\t-----------------------------------------")
+print("\t|\t STUDENT REGISTRATION\t\t|")
+print("\t|\t\t\t\t\t|")
+print("\t| Name:\t\tSsali Jamil\t\t|")
+print("\t| Gender:\tMale\t\t\t|")
+print("\t| Course:\tBIT\t\t\t|")
+print("\t-----------------------------------------\n")
